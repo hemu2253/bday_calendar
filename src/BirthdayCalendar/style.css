@@ -20,3 +20,7 @@
 .contentBody .title {
   text-align: center;
 }
+
+.workspace {
+  margin: 30px;
+}
